@@ -17,3 +17,7 @@ An intelligent, modular workflow orchestrator built with Python, LangGraph, Lang
 
 ## Endpoints
 - `POST /research`: Trigger a research workflow on a specific topic.
+
+
+## Community
+Contributions are always welcome. See CONTRIBUTING.md for details.
